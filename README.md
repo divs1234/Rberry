@@ -6,3 +6,5 @@ Road accidents could have taken fewer lives, had the ambulances reached the spot
 Police cannot be everywhere, so we thought of this idea which would keep an eye on different places through CCTV cameras and notify the nearest police station about crimes going on at the place.
 
 This project would also be able to identify some violation of rules, viz., crossing spped limits and other rules which go unnoticed in the absence of traffic police.
+
+LINK TO PPT :- https://drive.google.com/open?id=1bwJZkmVlhd7aan4SWoFiJhe5q0QEQ4KI
