@@ -7,4 +7,8 @@ Police cannot be everywhere, so we thought of this idea which would keep an eye 
 
 This project would also be able to identify some violation of rules, viz., crossing spped limits and other rules which go unnoticed in the absence of traffic police.
 
-LINK TO PPT :- https://drive.google.com/open?id=1bwJZkmVlhd7aan4SWoFiJhe5q0QEQ4KI
+LINK TO PPT :- 
+  https://drive.google.com/open?id=1bwJZkmVlhd7aan4SWoFiJhe5q0QEQ4KI
+LINK TO VIDEOS :- 
+  https://www.youtube.com/watch?v=lFJugrhznno&feature=youtu.be
+  https://www.youtube.com/watch?v=YBflTSOtN9Y&feature=youtu.be
