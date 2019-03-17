@@ -1,0 +1,8 @@
+classes= 80
+train  = dnFiles/trainvalno5k.txt
+#valid  = dnFiles/coco_testdev
+valid = dnFiles/coco_val_5k.list
+names = dnFiles/coco.names
+backup = dnFiles/backup/
+eval=coco
+
